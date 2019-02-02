@@ -6,9 +6,8 @@ Hello this is my fictional food company's website. I was creating this webpage i
 
  - This page is passing the Google Mobile-Friendly Test successfully.
  - Implements a simple and clean Flat UI,
- - with animated pictures.
+ - with animated pictures and icons.
 
 ### Todo
 
- - The icons are not working correctly (even though it works on my computer). 
  - Sing-up section is conneted to a databse.
